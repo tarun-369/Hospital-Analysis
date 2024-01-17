@@ -36,7 +36,7 @@ The Hospital Analysis project is designed to delve into healthcare data, providi
    1. Run the analysis scripts or notebooks.
    2. Visualize the data and interpret the insights.
 
-##Usage
+## Usage
 
   1. Explore the Analysis:
         1. Open the analysis notebook or script (Hospital_Analysis.ipynb).
