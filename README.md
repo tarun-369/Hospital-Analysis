@@ -1,7 +1,5 @@
 # Hospital Analysis 🏥📊
 
-![Hospital Analysis](https://raw.githubusercontent.com/tarun-369/Hospital-Analysis/main/hospital_analysis_logo.png)
-
 ## Overview
 
 The Hospital Analysis project is designed to delve into healthcare data, providing valuable insights into patient outcomes, hospital efficiency, and disease trends. By combining data analysis and visualization, this project aims to contribute to informed decision-making within the healthcare domain.
@@ -38,7 +36,7 @@ The Hospital Analysis project is designed to delve into healthcare data, providi
    1. Run the analysis scripts or notebooks.
    2. Visualize the data and interpret the insights.
 
-Usage
+##Usage
 
   1. Explore the Analysis:
         1. Open the analysis notebook or script (Hospital_Analysis.ipynb).
